@@ -15,16 +15,16 @@ The Dataset which is used for this project can be found [here](https://www.kaggl
 
 The following are the features of the dataset, showing whether that particular skin cancer is in the correspoding image file:
 
-Image_ID : The file name of an image
-AKIEC: Actinic keratoses and intraepithelial carcinoma / Bowen's disease
-BCC : basal cell carcinoma
-BKL: benign keratosis-like lesions (solar lentigines / seborrheic keratoses and lichen-planus like keratoses, BKL)
-DF: dermatofibroma
-MEL: melanoma
-NV : melanocytic nevi
-VASC : vascular lesions (angiomas, angiokeratomas, pyogenic granulomas and hemorrhage, VASC)
+* Image_ID : The file name of an image
+* AKIEC: Actinic keratoses and intraepithelial carcinoma / Bowen's disease
+* BCC : basal cell carcinoma
+* BKL: benign keratosis-like lesions (solar lentigines / seborrheic keratoses and lichen-planus like keratoses, BKL)
+* DF: dermatofibroma
+* MEL: melanoma
+* NV : melanocytic nevi
+* VASC : vascular lesions (angiomas, angiokeratomas, pyogenic granulomas and hemorrhage, VASC)
 
-Note : Move the downloded dataset to the repository.
+#### Note : Move the downloded dataset to the repository.
 
 ## Installation
 
