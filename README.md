@@ -28,7 +28,7 @@ Note : Move the downloded dataset to the repository.
 
 ## Installation
 
-1. Download this repo in a zip file by clicking this link or execute this from the terminal: git clone https://github.com/anjith180672/Skin-Cancer-Classification.git .
+1. Download this repo in a zip file by clicking this link or execute this from the terminal:  ```git clone https://github.com/anjith180672/Skin-Cancer-Classification.git ```.
 2. Install the [Anaconda Environment](https://anaconda.org/anaconda/anaconda-navigator) .
 3. Navigate to the repo directory and create a conda environment. Then install the dependencies with ```pip install -r requirements.txt```.
 4. Run the ```Skin_Cancer_Classification_CapsNets(PyTorch) (1).ipynb```.
